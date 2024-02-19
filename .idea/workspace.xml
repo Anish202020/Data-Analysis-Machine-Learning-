@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bccda72-f5e4-40f2-94c2-0162979f9272" name="Changes" comment="Data Analysis &amp; Machine Learning">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/program1.py" beforeDir="false" afterPath="$PROJECT_DIR$/program1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708326315543</updated>
       <workItem from="1708326321033" duration="1861000" />
-      <workItem from="1708331902545" duration="2269000" />
+      <workItem from="1708331902545" duration="2602000" />
     </task>
     <task id="LOCAL-00001" summary="Data Analysis &amp; Machine Learning">
       <option name="closed" value="true" />
@@ -105,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708333443964</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Data Analysis &amp; Machine Learning">
+      <option name="closed" value="true" />
+      <created>1708334297171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708334297171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Data Analysis &amp; Machine Learning">
+      <option name="closed" value="true" />
+      <created>1708334311722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708334311722</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +131,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Data Analysis &amp; Machine Learning" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Data_Analysis___Machine_Learning$program1.coverage" NAME="program1 Coverage Results" MODIFIED="1708334031559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_Analysis___Machine_Learning$program1.coverage" NAME="program1 Coverage Results" MODIFIED="1708334179851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

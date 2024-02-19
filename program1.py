@@ -1,4 +1,5 @@
 # Data Analysis & Machine Learning
+import matplotlib.pyplot as plt
 # Pandas
 import pandas as pd
 print("pandas series")
@@ -26,3 +27,13 @@ print(topcountries["Captital"])
 
 topcountriessort = topcountries.sort_values("GDPRank",ascending=True)
 print("The Sort is ",topcountriessort)
+
+print("Line Graph")
+plt.title("Top Economic in the world")
+plt.xlabel("Country")
+plt.ylabel("GDP")
+# plt.plot(topcountriessort.Country,topcountriessort.GDP)
+# plt.scatter(topcountriessort.Country,topcountriessort.GDP)
+# plt.bar(topcountriessort.Country,topcountriessort.GDP)
+plt.pie(topcountriessort.GDP,labels = topcountriessort.Country)
+plt.show()
